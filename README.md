@@ -13,7 +13,3 @@ Este repositório contém resoluções de exercícios feitos na disciplina de **
 
 - Linguagem C
 - Compilador GCC
-
-## 📌 Objetivo
-
-O objetivo deste repositório é armazenar e compartilhar resoluções de exercícios, servindo como material de estudo e referência para futuros projetos.
