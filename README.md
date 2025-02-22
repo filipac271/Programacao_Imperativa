@@ -1,4 +1,4 @@
-# Exercícios de Programação Imperativa em C
+# Exercícios de Programação Imperativa em C✨
 
 Este repositório contém resoluções de exercícios feitos na disciplina de **Programação Imperativa** em **C**. 
 
